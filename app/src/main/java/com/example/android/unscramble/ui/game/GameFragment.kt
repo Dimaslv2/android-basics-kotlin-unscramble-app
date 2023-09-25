@@ -157,6 +157,7 @@ class GameFragment : Fragment() {
         }
     }
 
+
     /*
      * Displays the next scrambled word on screen.
      */
